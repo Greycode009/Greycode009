@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dipesh</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A FullStack Web developer</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack<br>📫 How to reach me dipeshmalla000@gmail.com<br>⚡ Fun fact I really like mind games and good in it
+🌱 I’m currently learning MERN Stack<br>📫 How to reach me dipeshmalla000@gmail.com<br>⚡ Fun fact I really like puzzles
 
 
 ## 🌐 Socials:
