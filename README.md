@@ -2,7 +2,7 @@
 <h3 align="center">A FullStack Web developer</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack<br>👨‍💻 All of my projects are available at https://dipeshmalla.vercel.app<br>💬 Ask me about frontend and backend<br>📫 How to reach me dipeshmalla000@gmail.com<br>⚡ Fun fact I like puzzels.
+🌱 I’m currently learning FastAPI as backend<br>👨‍💻 All of my projects are available at https://dipeshmalla.vercel.app<br>💬 Ask me about frontend and backend<br>📫 How to reach me dipeshmalla000@gmail.com<br>⚡ Fun fact I like puzzels.
 
 
 ## 🌐 Socials:
