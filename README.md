@@ -3,6 +3,7 @@
 
 # 💫 About Me:
 🌱 I’m currently learning Node JS as backend<br>👨‍💻 All of my projects are available at https://dipeshmalla.vercel.app<br>💬 Ask me about frontend and backend<br>📫 How to reach me dipeshmalla000@gmail.com<br>⚡ Fun fact I like puzzles.
+<br>My latest updates are here [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_iam_dipesh)
 
 
 ## 🌐 Socials:
