@@ -38,9 +38,8 @@ I'm a **Full Stack Web Developer** who enjoys turning ideas into clean, working 
 
 ### Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,py,bash,postgres,sequlize,supabase,vercel,render,mongodb,mongoose&theme=dark" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,py,bash,postgres,supabase,vercel,mongodb,fastapi&perline=5)](https://skillicons.dev)
+
 
 <br>
 
