@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DA55F,100:007ACC&height=200&section=header&text=Hi,%20I'm%20Dipesh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Dipesh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://dipeshmalla.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6DA55F&center=true&vCenter=true&width=550&lines=Building+things+for+the+web;Currently+learning+Node.js;Ask+me+about+frontend+%26+backend;I+like+solving+good+puzzles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00d9ff&center=true&vCenter=true&width=550&lines=Building+things+for+the+web;Currently+learning+Node.js;Ask+me+about+frontend+%26+backend;I+like+solving+good+puzzles" alt="Typing SVG" />
 </a>
 
 </div>
@@ -39,16 +39,8 @@ I'm a **Full Stack Web Developer** who enjoys turning ideas into clean, working 
 ### Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,py,bash,postgres,supabase,mongodb,vercel,mongoose" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,py,bash,postgres,supabase,vercel,netlify,npm&theme=dark" />
 </p>
-
-<br>
-
-### Contribution Graph
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/greycode009/greycode009/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%"/>
-</div>
 
 <br>
 
@@ -63,7 +55,7 @@ I'm a **Full Stack Web Developer** who enjoys turning ideas into clean, working 
 ### Random Dev Quote
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
@@ -72,6 +64,6 @@ I'm a **Full Stack Web Developer** who enjoys turning ideas into clean, working 
 
 [![](https://visitcount.itsvg.in/api?id=greycode009&icon=6&color=12)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DA55F,100:007ACC&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=75" width="100%"/>
 
 </div>
