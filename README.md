@@ -1,34 +1,77 @@
-<h1 align="center">Hi 👋, I'm Dipesh</h1>
-<h3 align="center">A FullStack Web developer</h3>
+<div align="center">
 
-# 💫 About Me:
-🌱 I’m currently learning Node JS as backend<br>👨‍💻 All of my projects are available at https://dipeshmalla.vercel.app<br>💬 Ask me about frontend and backend<br>📫 How to reach me dipeshmalla000@gmail.com<br>⚡ Fun fact I like puzzles.
-<br>My latest updates are here [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_iam_dipesh)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DA55F,100:007ACC&height=200&section=header&text=Hi,%20I'm%20Dipesh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
+<a href="https://dipeshmalla.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6DA55F&center=true&vCenter=true&width=550&lines=Building+things+for+the+web;Currently+learning+Node.js;Ask+me+about+frontend+%26+backend;I+like+solving+good+puzzles" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/M6sacTAw5P) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dipeshmalla.29) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_iam_dipesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipeshmalla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dipeshmalla29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dipeshmalla000@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=greycode009&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=greycode009&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=greycode009&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=greycode009&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+</div>
 
 ---
+
+### About Me
+
+I'm a **Full Stack Web Developer** who enjoys turning ideas into clean, working products — from pixel-perfect UIs to the APIs running behind them.
+
+- Building full-stack apps with **React, Node.js & Supabase/Postgres**
+- Currently leveling up my **Node.js backend** skills
+- Portfolio & project showcase: **[dipeshmalla.vercel.app](https://dipeshmalla.vercel.app)**
+- Happy to talk **frontend, backend, or anything in between**
+- Fun fact: I enjoy a good puzzle — the harder, the better
+- Reach me at **dipeshmalla000@gmail.com**
+
+<br>
+
+### Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/dipeshmalla" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/dipeshmalla29" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://instagram.com/_iam_dipesh" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://facebook.com/dipeshmalla.29" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://discord.gg/M6sacTAw5P" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:dipeshmalla000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<br>
+
+### Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,py,bash,postgres,supabase,vercel,netlify,npm" />
+</p>
+
+<br>
+
+### Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/greycode009/greycode009/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%"/>
+</div>
+
+<br>
+
+### Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=greycode009&theme=react-dark&hide_border=true" width="100%"/>
+</div>
+
+<br>
+
+### Random Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</div>
+
+---
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=greycode009&icon=6&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DA55F,100:007ACC&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=75" width="100%"/>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-[![](https://visitcount.itsvg.in/api?id=Greycode009&icon=6&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
