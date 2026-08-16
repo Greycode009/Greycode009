@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Dipesh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://dipeshmalla.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00d9ff&center=true&vCenter=true&width=550&lines=Building+things+for+the+web;Currently+learning+Node.js;Ask+me+about+frontend+%26+backend;I+like+solving+good+puzzles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00d9ff&center=true&vCenter=true&width=550&lines=Building+things+for+the+web;Currently+learning+Complete+Backend;Ask+me+about+frontend+%26+backend;I+like+solving+good+puzzles" alt="Typing SVG" />
 </a>
 
 </div>
