@@ -36,9 +36,9 @@ I'm a **Full Stack Web Developer** who enjoys turning ideas into clean, working 
 
 <br>
 
-### Contribution Snake
+### Contribution Graph
 <div align="center">
-<img src="https://raw.githubusercontent.com/greycode009/greycode009/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://green-wall.leoku.dev/api/og/share/Greycode009" width="100%"/>
 </div>
 
 <br>
